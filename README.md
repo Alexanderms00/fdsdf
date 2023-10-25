@@ -1,2 +1,2 @@
 # javascript-calculator
-https://alexanderms00.github.io/javascript-calculator/
+https://Vladislavms2002.github.io/javascript-calculator/
